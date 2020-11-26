@@ -10,7 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "core-js": "^3.6.5",
+    "core-js": "^3.8.0",
     "nuxt-edge": "latest"
   },
   "devDependencies": {
